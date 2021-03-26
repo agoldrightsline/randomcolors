@@ -8,3 +8,7 @@ body {
     margin-right: auto;
    
   } 
+  #instructions {
+    text-align: center;
+    font-family: 'New Tegomin', serif;
+  }
